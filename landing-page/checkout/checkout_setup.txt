@@ -1,0 +1,41 @@
+=== TÍTULO DO PRODUTO ===
+Ebook 100 Receitas de Bolos Sem Glúten - Receitas da Nutri
+
+=== CATEGORIA ===
+Culinária / Saúde / Emagrecimento
+
+=== PREÇO SUGERIDO ===
+R$ 17,90
+
+=== DESCRIÇÃO CURTA (Resumo para aparecer no checkout) ===
+Descubra como comer bolos deliciosos todos os dias sem sair da dieta. O guia definitivo com 100 receitas testadas de bolos sem glúten, sem açúcar e sem leite. Inclui 4 Bônus Exclusivos e Garantia de 7 Dias.
+
+=== DESCRIÇÃO COMPLETA (Para usar na página do produto) ===
+
+Imagine poder comer um bolo fofinho e delicioso todos os dias, sem culpa e sem prejudicar sua saúde?
+
+O Ebook "100 Receitas de Bolos Sem Glúten" é o guia definitivo para quem ama doces mas precisa (ou quer) evitar glúten, açúcar e lactose. Desenvolvido pela equipe Receitas da Nutri, este livro digital traz receitas testadas e aprovadas que vão surpreender seu paladar.
+
+O QUE VOCÊ VAI ENCONTRAR:
+✅ 100 Receitas Exclusivas: Desde os clássicos como Cenoura e Chocolate até criações sofisticadas como Pistache e Red Velvet.
+✅ 100% Sem Glúten: Segurança total para celíacos e intolerantes.
+✅ Opções Low Carb e Sem Açúcar: Perfeito para diabéticos e quem quer emagrecer.
+✅ Passo a Passo Simples: Receitas fáceis, mesmo para quem não sabe cozinhar.
+✅ Ingredientes Acessíveis: Nada de ingredientes caros e difíceis de achar.
+
+🎁 4 BÔNUS EXCLUSIVOS (GRÁTIS HOJE):
+1. Bolo de Chocolate Trufado Fit
+2. Bolo de Fubá Cremoso Mineiro
+3. Bolo de Maracujá Refrescante
+4. Bolo Prestígio Saudável
+
+🛡️ RISCO ZERO
+Você tem 7 dias de garantia incondicional. Se não amar as receitas, devolvemos 100% do seu dinheiro.
+
+Garanta sua cópia agora e trasforme sua alimentação com prazer!
+
+=== IMAGEM DE CAPA ===
+(Use a imagem: assets/bonus_cake_chocolate.png ou assets/cake_cover.png que criamos)
+
+=== PÁGINA DE VENDAS (Se pedir URL) ===
+https://receitas-da-nutri.netlify.app/
